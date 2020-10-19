@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="T!kSEASq=Pv_Bw2I`VKR" x="20" y="20"/><block type="device_forever" id="}:)nWbxlT.`Vx;V}hev2" x="225" y="20"/><block type="function_definition" id="lxbu@ncPqjwCEjp=kIwy" x="69" y="209"><mutation name="抬腿" functionid="!_uu#Xdi1^6%InFa[L_U"/><field name="function_name">抬腿</field><statement name="STACK"><block type="device_show_number" id=":O6xn2;G9I7e}c@F1!ll"><value name="number"><shadow type="math_number" id="tW@M]2y/d*Cts/ZAqj.F"><field name="NUM">0</field></shadow></value></block></statement></block></xml>
